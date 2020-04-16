@@ -1,7 +1,7 @@
 {
-  "name": "@nuxtjs/sentry",
-  "version": "4.0.1",
-  "description": "Sentry module for Nuxt.js",
+  "name": "@nuxtjs/sentry-godmoon",
+  "version": "1.0.0",
+  "description": "Sentry module for Nuxt.js to remove needless integrations",
   "repository": "nuxt-community/sentry-module",
   "license": "MIT",
   "contributors": [
